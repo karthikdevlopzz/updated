@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+    color: white;
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 60%;
+    width: 100%;
+
+}
+.sachin{
+        width: 10%;
+        height: 10%;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         height: 100vh;
+         margin: 0;
+}
+.wcc{
+    display: flex;
+         justify-content: center;
+         align-items: center;
+         height: 100vh;
+         margin: 0;
+}
+.gta5{
+    display: flex;
+         justify-content: right;
+         align-items: right;
+         height: 100vh;
+         margin: 0;
+}
